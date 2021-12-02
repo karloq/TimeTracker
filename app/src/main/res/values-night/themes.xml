@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.TimeTracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/tt_primary_dark</item>
+        <item name="colorPrimaryDark">@color/tt_primary_dark</item>
+        <item name="colorPrimaryVariant">@color/tt_primary_light</item>
+        <item name="colorOnPrimary">@color/tt_onPrimary_dark</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/tt_secondary_dark</item>
+        <item name="colorSecondaryVariant">@color/tt_secondary_light</item>
+        <item name="colorOnSecondary">@color/tt_onPrimary_light</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/transparent</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

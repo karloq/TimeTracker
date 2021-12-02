@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/drawable/ic_addtime.xml" value="0.29583333333333334" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout-land/activity_main.xml" value="0.13977072310405644" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout-land/fragment_activities.xml" value="0.13977072310405644" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout-land/fragment_dialog_add.xml" value="0.25" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout-land/fragment_dialog_resettime.xml" value="0.13977072310405644" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout-land/fragment_dialog_time.xml" value="0.13977072310405644" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/activity_main.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/fragment_activities.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/fragment_dialog_add.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/fragment_dialog_add_land.xml" value="0.28020833333333334" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/fragment_dialog_resettime.xml" value="0.2796875" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/fragment_dialog_time.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/fragment_running.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/fragment_statistics.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/nav_header.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/statisticstask_item.xml" value="0.190625" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/layout/timetask_item.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/menu/actionbar_menu_main.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/karlo/OneDrive/Dokument/AndroidProjects/TimeTracker/app/src/main/res/menu/drawer_menu.xml" value="0.2947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/abmenu_add"
+        android:icon="@drawable/ic_add"
+        android:iconTint="@color/tt_action_bar_item"
+        android:title="@string/add_activity"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/abmenu_deleteall"
+        android:icon="@drawable/ic_delete"
+        android:iconTint="@color/tt_action_bar_item"
+        android:title="@string/delete_all_activities"
+        app:showAsAction="collapseActionView" />
+
+
+</menu>

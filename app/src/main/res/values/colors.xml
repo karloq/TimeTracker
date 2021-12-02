@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tt_primary_dark">#2C5530</color>
+    <color name="tt_primary_light">#739E82</color>
+    <color name="tt_onPrimary_light">#FFFFFF</color>
+    <color name="tt_onPrimary_dark">#0E0E0E</color>
+    <color name="tt_secondary_dark">#99621E</color>
+    <color name="tt_secondary_light">#D38B5D</color>
+    <color name="tt_tertiary_light">#F3FFB6</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="tt_card_background">#739E82</color>
+    <color name="tt_card_title">#2C5530</color>
+    <color name="tt_card_description">#2C5530</color>
+    <color name="tt_card_time">#2C5530</color>
+    <color name="tt_card_item">#FFFFFFFF</color>
+
+    <color name="tt_statcard_background">#F3FFB6</color>
+    <color name="tt_statcard_title">#2C5530</color>
+    <color name="tt_statcard_description">#2C5530</color>
+    <color name="tt_statcard_time">#2C5530</color>
+    <color name="tt_statcard_item">#FFFFFFFF</color>
+
+    <color name="tt_runningcard_background">#2C5530</color>
+    <color name="tt_runningcard_title">#F3FFB6</color>
+    <color name="tt_runningcard_button">#FFFFFFFF</color>
+    <color name="tt_runningcard_time">#F3FFB6</color>
+
+    <color name="tt_cancel">#E53935</color>
+    <color name="tt_accept">#43A047</color>
+    <color name="tt_button">#888888</color>
+    <color name="tt_action_bar_item">#FFFFFFFF</color>
+    <color name="tt_transparent">#00FFFFFF</color>
+    <color name="tt_selected">#888888</color>
+</resources>

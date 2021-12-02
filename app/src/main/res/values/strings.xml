@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TimeTracker</string>
+    <string name="track_time">Track time</string>
+    <string name="time_statistics">Time statistics</string>
+    <string name="drawer_open"> Open navigation drawer</string>
+    <string name="drawer_close"> Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_00_00">00:00</string>
+    <string name="what_task_do_you_want_to_keep_track_of">What task do you want to keep track of?</string>
+    <string name="task_name">Activity name</string>
+    <string name="add_task">Add activity</string>
+    <string name="cancel">Cancel</string>
+    <string name="success">Success</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="title_placeholder">Title placeholder</string>
+    <string name="save_changes">Save changes</string>
+    <string name="add_time_to_task">Add time to activity</string>
+    <string name="hours">Hours</string>
+    <string name="_0">0</string>
+    <string name="minutes">Minutes</string>
+    <string name="add_time">Add time</string>
+    <string name="deduct_time_from_activity">Deduct time from activity</string>
+    <string name="reset_time">Reset time</string>
+    <string name="reset_activity_time">Reset activity time</string>
+    <string name="stop">Stop</string>
+    <string name="no_activity_running">No activity running</string>
+    <string name="what_activity_do_you_want_to_keep_track_of">What activity do you want to keep track of?</string>
+    <string name="activity_name">Activity name</string>
+    <string name="describe_the_activity">Describe the activity</string>
+    <string name="add">Add</string>
+    <string name="time_tracker">Time Tracker</string>
+    <string name="delete_all_activities">Delete all activities</string>
+    <string name="add_activity">Add activity</string>
+    <string name="deduct_time">Deduct time</string>
+</resources>
